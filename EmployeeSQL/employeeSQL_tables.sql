@@ -24,7 +24,7 @@ emp_no integer
 );
 
 create table salary(
-emp_no integer primary key,
+emp_no integer,
 salary integer
 );
 
